@@ -1,2 +1,5 @@
-line 1
+<<<<<<< HEAD
+=======
+line 2
+>>>>>>> experiment
 
